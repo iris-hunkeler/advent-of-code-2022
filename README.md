@@ -6,5 +6,6 @@
 | Day                                       | Name                    | Stars |
 |-------------------------------------------|-------------------------|-------|
 | [01](https://adventofcode.com/2022/day/1) | Calorie Counting        | ⭐⭐    |
+| [02](https://adventofcode.com/2022/day/2) | Rock Paper Scissors     | ⭐⭐    |
 
 
